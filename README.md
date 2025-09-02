@@ -6,7 +6,7 @@ Olá! Me chamo Maria Cristina, tenho 20 anos e sou da cidade de Itambé. Atualme
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+### 🖥️ Linguagens e Tecnologias
 
 <img 
     align="left" 
