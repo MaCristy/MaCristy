@@ -77,7 +77,6 @@ Olá! Me chamo Maria Cristina, tenho 20 anos e sou da cidade de Itambé. Atualme
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-      style="padding-right: 10px;" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaCristy&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
