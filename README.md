@@ -2,7 +2,10 @@
 
 **`Desenvolvedora Front-End`**
 
-Olá! Me chamo Maria Cristina, tenho 20 anos e sou da cidade de Itambé. Atualmente, estou cursando Ciência da Computação na UNINASSAU (JP). Focada em desenholvimento web.
+Olá! Me chamo Maria Cristina, tenho 20 anos e sou apaixonada por tecnologia.
+Natural de Itambé, estou cursando Ciência da Computação na UNINASSAU (JP) e sou apaixonada por desenvolvimento web, com foco especial em Front-End.
+
+
 
 ---
 
@@ -63,21 +66,18 @@ Olá! Me chamo Maria Cristina, tenho 20 anos e sou da cidade de Itambé. Atualme
 ### 🖥️ Estatísticas
 
 <p>
-
   <img 
     align="left" 
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=MaCristy&show_icons=true&theme=tokyonight&include_all_commits=True&locale=pt-br" 
+    src="https://github-readme-stats.vercel.app/api?username=MaCristy&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br&count_private=true&cache_seconds=1800&v=1" 
   />
 
-
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaCristy&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  <img 
+    align="left" 
+    alt="Top Langs" 
+    height="200" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaCristy&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9&cache_seconds=1800&v=1" 
   />
-
 </p>
