@@ -1,7 +1,5 @@
 ## Maria Cristina
 
-**`Desenvolvedora Front-End`**
-
 Olá! Me chamo Maria Cristina, tenho 20 anos e sou apaixonada por tecnologia.
 Natural de Itambé, estou cursando Ciência da Computação na UNINASSAU (JP) e sou apaixonada por desenvolvimento web, com foco especial em Front-End.
 
