@@ -1,81 +1,111 @@
-## Maria Cristina
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=112&color=gradient&customColorList=4&section=header"/>
 
-Olá! Me chamo Maria Cristina, tenho 20 anos e sou apaixonada por tecnologia.
-Natural de Itambé, estou cursando Ciência da Computação na UNINASSAU (JP) e sou apaixonada por desenvolvimento web, com foco especial em Front-End.
+<br>
+<!--
+<div align="center">
+  <img align="center" height="150" src="https://imgur.com/aXIQLp8.png" />
+</div>
+-->
 
+<div align="center">
+  
+  <b>`プ ロ グ ラ マ`</b>
+  <samp>
+      <br>
+      Hi there! I'm <b>Maria Cristina</b>
+  </samp>
+</div>
 
+<div align="center" width="100%">
+  
+  <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=f8418b&width=900&size=22&center=true&lines=I+am+from+Brazil;I'm+a+student+of+Computer+Science;Be+welcome!" alt="Typing SVG"/>
+</div>
 
----
+<br>
 
-### 💻 Linguagens e Tecnologias
+<div align="center">
+  <img src="https://img.shields.io/badge/Cristy_♡-black" />
+</div>
+      
+<br>
+<br>
+      
+<div align="center">
+  <img height="165" src="https://github-readme-stats-two-nu-4enfq389jr.vercel.app/api?username=MaCristy&rank_icon=github&show_icons=true&theme=radical&count_private=true">
+  <img height="165" src="https://github-readme-stats-two-nu-4enfq389jr.vercel.app/api/top-langs/?username=MaCristy&layout=compact&theme=radical&count_private=true">
+  <img align="center" alt="Top Language" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MaCristy&theme=radical"/>
+</div>
 
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="TypeScript"
-    title="TypeScript" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Git" 
-    title="Git"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Python" 
-    title="Python"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
+<div align="center" style="display: inline_block"><br>
+ <!-- > <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CPP.svg"> -->
+  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/JavaScript.svg">
+  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/HTML.svg">
+  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CSS.svg">
+  <!-- <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Bootstrap.svg"> 
+  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/PostgreSQL-Dark.svg">
+  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Arduino.svg"> -->
+  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Git.svg">
+  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Python-Dark.svg">
+  <!-- <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Octave-Dark.svg"> -->
+  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Java-Dark.svg">
+  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Figma-Dark.svg">
+  
+</div>
 
-<br/>
-<br/>
+<br>
+<br>
 
-### 🖥️ Estatísticas
+<details align="center">  
+  <summary>
+      <samp>
+        <b>More Info</b>
+      </samp>
+  </summary>
+  
+<br>
 
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=MaCristy&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br&count_private=true&cache_seconds=1800&v=1" 
-  />
+##
 
-  <img 
-    align="left" 
-    alt="Top Langs" 
-    height="200" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaCristy&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9&cache_seconds=1800&v=1" 
-  />
-</p>
+<br>
+
+<div align="center">
+  <samp>
+    <b>
+      Contact me:
+    </b>
+  </samp>
+  <br>
+  <br>
+
+  [![Gmail](https://img.shields.io/badge/Gmail-dd4b40?style=for-the-badge&logo=gmail&logoColor=fff)](mailto:mariacristinan147@gmail.com)
+  [![Instagram](https://img.shields.io/badge/Instagram-ff3d7c?style=for-the-badge&logo=instagram&logoColor=fff)](https://www.instagram.com/_macristy?igsh=empjNGN2OTE5MTZr)
+  [![Linkedin](https://img.shields.io/badge/LinkedIn-007ab9?style=for-the-badge&logo=linkedin&logoColor=fff)](www.linkedin.com/in/macristy)
+  
+</div>
+
+<!--
+<div align="center">
+  <p align="center">
+      <samp>
+        ♡ <a href="https://rentry.co/kamillymedino">rentry</a> ⊹
+        <a href="https://linktr.ee/MaCristy1">linktr.ee</a> ⊹
+        <a href="https://kamillymedino.carrd.co/">carrd.co</a> ⊹
+        <a href="https://cyber-buttercup-43c.notion.site/My-universe-191f307c822780fba1dae4c8a8fc6069">notion</a> ♡
+      </samp>
+  </p>
+</div>
+<br>
+-->
+</details>
+
+##
+
+<br>
+
+<div align="center">
+  <p align="center"><img align="center" src="https://komarev.com/ghpvc/?username=MaCristy&style=flat-square&color=8f2c5b" /></p> 
+</div>
+
+<br>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=112&color=gradient&customColorList=4&section=footer"/>
