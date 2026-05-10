@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=112&color=gradient&customColorList=4&section=header"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=112&color=gradient&customColorList=12,20,24&section=header"/>
 
 <br>
 <!--
@@ -108,4 +108,4 @@
 
 <br>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=112&color=gradient&customColorList=4&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=112&color=0:00c6ff,50:7f5af0,100:ff4ecd&section=footer"/>
